@@ -7,3 +7,5 @@ Loader:
 
 Cheat Menu:
 ![image](https://user-images.githubusercontent.com/91130343/210551923-19e86685-a036-4c08-b9c9-6bc3a4037ad7.png)
+
+Undetected last check : 06/01/2023 on Easy Anti Cheat
